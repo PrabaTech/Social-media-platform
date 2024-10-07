@@ -17,5 +17,5 @@ This is a RESTful API for a basic social media platform built using Spring Boot.
 ## Running the Application
 1. Clone the repository:
    ```bash
-   git clone repository link 
+   git clone repository link https://github.com/PrabaTech/Social-media-platform.git
    cd social-media-platform
